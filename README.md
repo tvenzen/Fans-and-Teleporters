@@ -1,0 +1,2 @@
+# Fans-and-Teleporters
+A project where I recreate a children's board game called "Fans and Teleporters". It uses a CLI that allows for one person to play against an AI-controlled player. The object of the game is for all 3 of a player's pieces to reach the end of the board, with more instructions available in-game. To run the file, confirm you have Python installed, and type "python Fat.py" when navigated to the directory it is saved in.
